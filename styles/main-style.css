@@ -1,0 +1,56 @@
+body {	
+	margin-top: 5%;
+	max-width: 800px;
+	background-color: AliceBlue;
+	font-family: Verdana, sans-serif;
+}
+
+footer {
+	margin-top: 10em;
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:link {
+	color: SteelBlue;
+}
+
+a:visited {
+	color: DarkSlateBlue;
+}
+
+a:focus,
+a:hover {
+	text-decoration: underline;
+}
+
+figure {
+	width: fit-content;
+	margin-top: 5em;
+	padding: 25px;
+	text-align: center;
+	border: 1px solid MidnightBlue;
+	color: MidnightBlue;
+	background-color: LightSteelBlue;
+}
+
+figcaption {
+	border-bottom: 1px solid MidnightBlue;
+	padding: 5px;
+	width: fit-content;
+	margin-top: 0.5em;
+}
+
+h1 {
+	margin-left: 15%;
+	font-family: Lora, serif;
+}
+
+p {
+	font-size: 14px;
+	margin-right: 5%;
+	margin-left: 20%;
+}
